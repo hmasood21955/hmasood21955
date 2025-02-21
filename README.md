@@ -2,7 +2,7 @@
 
 ###
 
-<h3><p align="left">My name is Muhammad Masood Hussain<br> I am a Software Engineer and Tech Enthusiast</p></h3>
+<h3><p align="left">My name is Muhammad Masood Hussain.<br> I am a Software Engineer and Tech Enthusiast</p></h3>
 
 ###
 
