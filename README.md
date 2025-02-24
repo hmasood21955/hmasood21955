@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💼 Software Engineer at Prime Soft Solutions.<br>📚 Constantly learning new technologies, recently focused on AI/ML and expanding my MERN stack skills.<br>🚀 Always open to collaborating on Web Development.<br>🌐 Passionate about Full Stack Development.</p>
+<p align="left">💼 Software Engineer at Prime Soft Solutions.<br>📚 Constantly learning new technologies, recently focused on AI/ML and expanding my MERN stack skills.<br>🚀 Always open to collaborating on Web Development and Java Projects.<br>🌐 Passionate about Full Stack Development.</p>
 
 ###
 
